@@ -25,7 +25,6 @@ class _PlayingFieldState extends State<PlayingField> {
       game.refreshGame();
       _winPlaeyr = game.getWinPlayer();
       game = GameLogic();
-      build(context);
     });
   }
 
