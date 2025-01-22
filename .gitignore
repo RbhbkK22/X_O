@@ -1,0 +1,53 @@
+# Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins-setup
+.packages
+.pub-cache/
+.pub/
+/build/
+.dart_tool/
+
+# iOS
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Pods/
+ios/Podfile.lock
+ios/Flutter/App.framework
+ios/Flutter/Flutter.xcworkspace
+ios/Flutter/Flutter.podspec.json
+ios/Flutter/Generated.xcconfig
+ios/Flutter/GeneratedPluginRegistrant.h
+ios/Flutter/GeneratedPluginRegistrant.m
+ios/Flutter/ephemeral/
+
+# Android
+android/.gradle/
+android/app/*.iml
+android/local.properties
+android/*.iml
+android/app/build/
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea/modules.xml
+.idea/libraries/
+.idea/vcs.xml
+.idea/workspace.xml
+
+# Other
+*.log
+*.lock
+*.tmp
+*.swp
+*.DS_Store
+*.thumb
+Thumbs.db
+
